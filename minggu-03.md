@@ -1,7 +1,8 @@
-#PERTEMUAN MINGGU KE-3
-##SaaS
+## PERTEMUAN MINGGU KE-3
 ---
-**SaaS** (software as a service atau perangkat lunak berbentuk layanan) adalah
+# SaaS
+---
+__SaaS__ (software as a service atau perangkat lunak berbentuk layanan) adalah
 suatu model penyampaian aplikasi perangkat lunak oleh suatu vendor perangkat lunak yang mengembangkan aplikasi web
 yang diinangi dan dioperasikan (baik secara mandiri maupun melalui pihak ketiga) untuk digunakan oleh pelanggannya melalui Internet.
 ---
@@ -10,7 +11,7 @@ Pelanggan menggunakan perangkat lunak tersebut melalui antarmuka pemrograman apl
 seringkali ditulis menggunakan layanan web atau REST.
 ---
 Istilah ini belakangan mulai lebih dipilih kalangan industri terkait sebagai pengganti istilah
-penyedia layanan aplikasi dan_on-demand_ (sesuai permintaan).
+penyedia layanan aplikasi dan _on-demand_ (sesuai permintaan).
 ---
 Salah satu contoh aplikasi SaaS adalah Dropbox.
 Dropbox adalah layanan penyedia data berbasis web yang dioperasikan oleh Dropbox, Inc.
